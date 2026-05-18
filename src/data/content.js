@@ -10,7 +10,7 @@ export const personal = {
   about:
     "Cybersecurity enthusiast and Python Developer focused on Ethical Hacking, Web Application Security, and AI-powered security systems. Currently working on VAPT, reconnaissance, and penetration testing using industry-standard tools.",
 
-  location: 'Pune, Maharashtra',
+  location: 'Navi Mumbai, Maharashtra',
 
   email: 'gauravkpawar001@gmail.com',
 
