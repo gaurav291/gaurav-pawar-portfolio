@@ -4,7 +4,7 @@ import { Download, ArrowDown, Sparkles } from 'lucide-react';
 import ParticleField from './ParticleField';
 import { personal } from '../data/content';
 
-const TYPED_ROLES = ['React.js', 'JavaScript', 'REST APIs', 'Node.js'];
+const TYPED_ROLES = ['Burp Suite', 'VAPT', 'Kali Linux', 'Python'];
 
 export default function Hero() {
   const scrollToProjects = () => {
