@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="100%" height="100%">
-  <!-- Sleek Dark Background -->
-  <rect width="32" height="32" rx="8" fill="#0F172A"/>
-  <!-- Elegant, Bold Monogram Font Geometry -->
-  <text x="50%" y="55%" font-family="'Inter', system-ui, sans-serif" font-weight="900" font-size="18" fill="#F8FAFC" text-anchor="middle" dominant-baseline="middle">G</text>
-</svg>
